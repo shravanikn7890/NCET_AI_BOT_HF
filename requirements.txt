@@ -1,5 +1,5 @@
 streamlit
-groq
-google-auth
-google-auth-oauthlib
-google-api-python-clint
+transformers==4.36.2
+torch
+sentencepiece
+accelerate
