@@ -1,5 +1,5 @@
 streamlit
-groq
-google-auth
-google-auth-oauthlib
-google-api-python-clint
+transformers=4.57.7
+torch
+accelerate
+transvision
